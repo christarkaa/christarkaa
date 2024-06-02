@@ -10,3 +10,4 @@
 
 🧠Currently learning about deep learning in bioinformatics.
 
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=christarkaa](https://github.com/christarkaa/github-readme-stats)
