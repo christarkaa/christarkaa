@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my github profile! 👋</h1>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
