@@ -1,4 +1,4 @@
-<img src="https://www.healthtech.dtu.dk/-/media/institutter/sundhedsteknologi/health-tech-newdesign/research/research-areas/infografikker/bioinformatics_x1.jpg" alt="Master Head Image" width="100%" height="200">
+<img src="https://www.healthtech.dtu.dk/-/media/institutter/sundhedsteknologi/health-tech-newdesign/research/research-areas/infografikker/bioinformatics_x1.jpg" alt="Master Head Image" width="100%" height="300">
 
 <h1 align="center">Hi, I'm Christopher 👋</h1>
 
