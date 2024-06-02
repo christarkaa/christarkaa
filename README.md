@@ -1,4 +1,3 @@
-<img src="https://yfv.finance/wp-content/uploads/2023/10/bionformatics.jpg" alt="Master Head Image" width="100%" height="300">
 <h1 align="center">Hi, I'm Christopher 👋</h1>
 
 ###
