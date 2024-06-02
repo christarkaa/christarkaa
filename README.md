@@ -1,4 +1,4 @@
-![Master Head Image](https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg)
+<img src="https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg" alt="Master Head Image" width="100%" height="200">
 <h1 align="center">Hi, I'm Christopher 👋</h1>
 
 ###
