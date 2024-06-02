@@ -49,9 +49,9 @@
 
 
 <h3 align="left">🔥   My Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christarkaa&show_icons=true&locale=en&layout=compact" alt="christarkaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christarkaa&show_icons=true&locale=en&theme=swift&layout=compact" alt="christarkaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christarkaa&show_icons=true&locale=en" alt="christarkaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christarkaa&show_icons=true&theme=swift&locale=en" alt="christarkaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christarkaa&" alt="christarkaa" /></p>
 
