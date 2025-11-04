@@ -4,7 +4,6 @@
 
 ###
 <p align="left">I am a Bioinformatician<br><br>-🔬 I have a Bachelor's degree in Biology from Benue State University, Nigeria.<br>- 🧬 I have a Master's degree in Cell Biology and Genetics from the University of Ibadan, Nigeria
-<br>- 📚 I'm currently learning deep learning in bioinformatics<br>- 👯 I’m looking to collaborate on bioinformatics analysis projects</p>
 
 <h3 align="left">🌐 Connect with me</h3>
 
